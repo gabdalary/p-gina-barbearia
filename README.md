@@ -1,5 +1,5 @@
 # primeiro-repositorio
 
 <html>
-  <h1> Meu primeiro repositorio HTML <h1>
+  <h1> Meu primeiro arquivo HTML <h1>
 </html>
